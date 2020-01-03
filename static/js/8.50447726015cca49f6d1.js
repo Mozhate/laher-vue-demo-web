@@ -1,2 +1,0 @@
-webpackJsonp([8],{e7xn:function(e,n){},hKCP:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("\n  这是公共页面\n  "),t("div",{on:{click:function(n){return e.$router.push({path:"/"})}}},[e._v("返回首页")])])},staticRenderFns:[]};var u=t("VU/8")({name:"CommPage"},r,!1,function(e){t("e7xn")},"data-v-71072b92",null);n.default=u.exports}});
-//# sourceMappingURL=8.50447726015cca49f6d1.js.map

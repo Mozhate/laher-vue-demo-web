@@ -1,0 +1,2 @@
+webpackJsonp([14],{NYJe:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("\n  权限不足，无法访问\n  "),t("div",{on:{click:function(n){return e.$router.push({path:"/"})}}},[e._v("返回首页")])])},staticRenderFns:[]};var i=t("VU/8")({name:"NoPermission"},r,!1,function(e){t("e6Iq")},"data-v-4356f600",null);n.default=i.exports},e6Iq:function(e,n){}});
+//# sourceMappingURL=14.1c973d120ec0a7e7418e.js.map
