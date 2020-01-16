@@ -1,2 +1,0 @@
-webpackJsonp([10],{M22p:function(e,t){},NET2:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("div",[this._v("user add")]),this._v(" "),t("div",{on:{click:this.home}},[this._v("返回首页")])])},staticRenderFns:[]};var s=n("VU/8")({name:"UserAdd",methods:{home:function(){this.$router.push({path:"/"})}}},i,!1,function(e){n("M22p")},"data-v-782d1525",null);t.default=s.exports}});
-//# sourceMappingURL=10.ffa93b3e152102f22d85.js.map
